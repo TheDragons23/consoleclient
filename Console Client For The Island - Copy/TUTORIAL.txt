@@ -1,0 +1,16 @@
+HOW TO CHANGE WHAT IT TYPES IN HUB!!!
+(1) Open the check.txt note.
+(2) then simply change /server factions out with a command of your choice
+
+HOW TO DISABLE THE AUTOMATIC HOME FEATURE
+(1) Open the check.txt note.
+(2) Then simply remove send /home & the wait 50 under it.
+
+HOW TO CHANGE THE TIME BETWEEN RUNNING OUR CHECK CHECK SCRIPT
+(1)Right click Minecraftclient.ini and click edit
+(2) Scroll down to u see [AntiAFK]
+(3) Find delay=600 #10 = 1s and simply change the 600 higher or lower depending on wait time
+               ----->   600 = 1min | 1200 = 2min |   1.800 = 3min | 3000 = 5min <-----
+
+
+
